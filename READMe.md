@@ -63,6 +63,8 @@ Project is: complete
 ![First Place Winners of the National Student Data Corps Data Science Symposium.](https://github.com/juldyzmurat/USD-RUB-rate-amid-Russian-Ukrainian-war/blob/main/first%20place.png?raw=true)
 
 ## Contact 
-
+* zxu4@case.edu
+* ktn37@case.edu
 ## Acknowledgements 
+* Data was collected by the  U.S. Energy Information Association, Yahoo Finance
 
