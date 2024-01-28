@@ -10,16 +10,33 @@ Among many other factors that define the exchange rate of USD/RUB, such as infla
 Using different models, we aimed to predict the average exchange rate of USD/RUB in June 2022 as such prediction is valuable for financial decision-making of individuals and organizations. 
 
 ## Methodology
-Step 1:  EDA showed that after the devaluation of the ruble followed by  Russia’s first invasion of Ukraine in February 2014, the rate of change of USD/RUB only stabilized in early 2018
+***Step 1: EXPLORATORY  DATA  ANALYSIS*** 
 
-Step 2: Data was split from 12-2003 to 02-2018 and from 03-2018 to 05-2022 for training and testing sets respectively (77/23 ratio.) 
+EDA showed that after the devaluation of the ruble followed by  Russia’s first invasion of Ukraine in February 2014, the rate of change of USD/RUB only stabilized in early 2018
 
-Step 3: Linear Regression models were built using different combinations of features.
+***Step 2: SPLITTING DATA TO TRAINING AND TESTING SETS***
 
-Step 4: Keras Deep Learning models were built using different combinations of features.
+Data was split from 12-2003 to 02-2018 and from 03-2018 to 05-2022 for training and testing sets respectively (77/23 ratio.) 
 
+***Step 3:  LINEAR REGRESSION MODEL***
+
+Linear Regression models were built using different combinations of features.
+
+***Step 4:  KERAS DEEP LEARNING MODEL***
+
+Keras Deep Learning models were built using different combinations of features.
 
 ## Technologies 
+The following R packages were used for this project: 
+
+* bs4
+* requests
+* pandas
+* dateutil 
+* numpy 
+* matplotlib
+* sklearn
+* keras
 
 ## Setup 
 
