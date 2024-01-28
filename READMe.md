@@ -1,18 +1,18 @@
-#Prediction of Russian ruble (RUB) against US dollar (USD) in June 2022 amid Russian-Ukrainian war
+# Prediction of Russian ruble (RUB) against US dollar (USD) in June 2022 amid Russian-Ukrainian war
 
-##General information 
+## General information 
 
-##Technologies 
+## Technologies 
 
-##Setup 
+## Setup 
 
-##Features 
+## Features 
 
-##Results 
+## Results 
 
-##Status 
+## Status 
 
-##Contact 
+## Contact 
 
-##Acknowledgements 
+## Acknowledgements 
 
