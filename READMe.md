@@ -27,6 +27,9 @@ Linear Regression models were built using different combinations of features.
 Keras Deep Learning models were built using different combinations of features.
 
 ## Technologies 
+* Jupyter Notebook
+
+## Setup 
 The following R packages were used for this project: 
 
 * bs4
@@ -38,11 +41,14 @@ The following R packages were used for this project:
 * sklearn
 * keras
 
-## Setup 
-
 ## Features 
+The following forecasting methods are explored in this project:
+
+* Linear Regression
+* Deep Learning 
 
 ## Results 
+![Comparison between Linear Regression and Deep Learning models built by using different combinations of features.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## Status 
 
