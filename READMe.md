@@ -48,7 +48,7 @@ The following forecasting methods are explored in this project:
 * Deep Learning 
 
 ## Results 
-![Comparison between Linear Regression and Deep Learning models built by using different combinations of features.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Comparison between Linear Regression and Deep Learning models built by using different combinations of features.](https://github.com/juldyzmurat/USD-RUB-rate-amid-Russian-Ukrainian-war/blob/main/Results.png?raw=true)
 
 ## Status 
 
