@@ -60,7 +60,7 @@ Exploratory analysis is also reflected the effect of regulations of Russia as a 
 
 ## Status 
 Project is: complete
-![ First Place Winners of the [National Student Data Corps Data Science Symposium](https://nebigdatahub.org/nsdc/nsdc-dss/).] (https://github.com/juldyzmurat/USD-RUB-rate-amid-Russian-Ukrainian-war/blob/main/first%20place.png?raw=true)
+![ First Place Winners of the National Student Data Corps Data Science Symposium.] (https://github.com/juldyzmurat/USD-RUB-rate-amid-Russian-Ukrainian-war/blob/main/first%20place.png?raw=true)
 
 ## Contact 
 
