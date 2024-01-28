@@ -50,7 +50,17 @@ The following forecasting methods are explored in this project:
 ## Results 
 ![Comparison between Linear Regression and Deep Learning models built by using different combinations of features.](https://github.com/juldyzmurat/USD-RUB-rate-amid-Russian-Ukrainian-war/blob/main/Results.png?raw=true)
 
+Since confident level of all six models have a very similar range, mean absolute percentage error played a major role in choosing the linear model with only four variables of USD/RUB exchange rate and Oil Price.
+
+Exploration confirms the findings of earlier studies that oil price is a significant factor in forecasting the USD/RUB value due to Russia’s oil-dependent economy (Kim,2018). Using the two currency exchanges (USD/RUB and EUR/RUB) and one (USD/RUB) produces different results as currency included oil price factor. The effect of oil price was also confirmed by feature analysis of linear model. 
+
+The predicted value confirms the trend observed in the previous invasion, which caused a rapid devaluation of the Russian currency, followed by its rapid revaluation - the current state of the ruble. 
+
+Exploratory analysis is also reflected the effect of regulations of Russia as a response to Western sanctions, namely its strict selling of oil in the ruble (McCabe,2022), which resulted in a rapid strengthening of the currency, which is expected to be observed in June. 
+
 ## Status 
+Project is: complete
+
 
 ## Contact 
 
