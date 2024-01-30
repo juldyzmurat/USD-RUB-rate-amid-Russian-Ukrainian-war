@@ -30,7 +30,7 @@ Keras Deep Learning models were built using different combinations of features.
 * Jupyter Notebook
 
 ## Setup 
-The following R packages were used for this project: 
+The following Python packages were used for this project: 
 
 * bs4
 * requests
